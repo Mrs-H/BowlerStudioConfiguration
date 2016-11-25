@@ -8,9 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/576694f586b5c000c201f6c0ea24af12.git:springGenerator.groovy": [
+      "https://gist.github.com/576694f586b5c000c201f6c0ea24af12.git",
+      "springGenerator.groovy"
+    ],
     "https://github.com/Mrs-H/laser-cut-robot.git:LaserCutDog.xml": [
       "https://github.com/Mrs-H/laser-cut-robot.git",
       "LaserCutDog.xml"
+    ],
+    "https://gist.github.com/2b2ecdc6611458b0a6a5a472a659dd60.git:springGen.groovy": [
+      "https://gist.github.com/2b2ecdc6611458b0a6a5a472a659dd60.git",
+      "springGen.groovy"
     ],
     "https://github.com/Mrs-H/laser-cut-robot.git:laserCutCad.groovy": [
       "https://github.com/Mrs-H/laser-cut-robot.git",
